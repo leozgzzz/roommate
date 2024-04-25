@@ -1,0 +1,4 @@
+Download the zip file, unzip it, and use visual studio to run the project
+first, cd  C:\Users\Leo\Desktop\2115_marvel\js\public\js
+second, node server.js
+Now you can start from login.html to go through the project
